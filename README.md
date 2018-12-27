@@ -1,2 +1,2 @@
-# hexlet-basics1
+# hexlet-basics
 Test repository for Hexlet
